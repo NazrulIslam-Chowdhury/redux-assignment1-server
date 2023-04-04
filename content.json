@@ -1,0 +1,315 @@
+[
+    {
+        "title": "John Wick",
+        "img": "https://play-lh.googleusercontent.com/k4w1S_AzzUWvoHngQM8ddQ5JPdi1FNAmjBYZ-exnI4h4v4bzdDj8f993CmNYtwlhthLdp_pPWhNtRka9eg",
+        "airing": "2014",
+        "pg": "15",
+        "runtime": "1h 41m",
+        "rating": "7.4",
+        "meta_score": "68",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Crime",
+            "genre3": "Thriller"
+        },
+        "directors": {
+            "director1": "Chad Stahelski",
+            "director2": "David Leitch"
+        },
+        "writers": "Derek Kolstad",
+        "stars": {
+            "stars1": "Keanu Reeves",
+            "stars2": "Michael Nyqvist",
+            "stars3": "Alfie Allen"
+        },
+        "awards": {
+            "wins": "5",
+            "nomination": "10"
+        },
+        "description": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car.",
+        "casts": []
+    },
+    {
+        "title": "The Matrix",
+        "img": "https://www.imdb.com/title/tt0133093/mediaviewer/rm525547776/?ref_=tt_ov_i",
+        "airing": "1999",
+        "pg": "15",
+        "runtime": "2h 16m",
+        "rating": "8.7",
+        "meta_score": "73",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Sci-fi"
+        },
+        "directors": {
+            "director1": "Lana Wachowski",
+            "director2": "Lilly Wachowski"
+        },
+        "writers": {
+            "writer1": "Lilly Wachowski",
+            "writer2": "Lana Wachowski"
+        },
+        "stars": {
+            "stars1": "Keanu Reeves",
+            "stars2": "Laurence Fishburne",
+            "stars3": "Carrie-Anne Moss"
+        },
+        "awards": {
+            "oscars": "4",
+            "wins": "42",
+            "nomination": "52"
+        },
+        "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "casts": []
+    },
+    {
+        "title": "Forest Gump",
+        "img": "https://www.imdb.com/title/tt0109830/mediaviewer/rm1954748672/?ref_=tt_ov_i",
+        "airing": "1994",
+        "pg": "12",
+        "runtime": "2h 22m",
+        "rating": "8.8",
+        "meta_score": "82",
+        "genres": {
+            "genre1": "Drama",
+            "genre2": "Romance"
+        },
+        "directors": "Robert Zemeckis",
+        "writers": {
+            "writer1": "Winston Groom",
+            "writer2": "Eric Roth"
+        },
+        "stars": {
+            "stars1": "Tom Hanks",
+            "stars2": "Robin Wright",
+            "stars3": "Gary Sinise"
+        },
+        "awards": {
+            "oscars": "6",
+            "wins": "51",
+            "nomination": "75"
+        },
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "casts": []
+    },
+    {
+        "title": "Fight Club",
+        "img": "https://www.imdb.com/title/tt0137523/mediaviewer/rm2110056193/?ref_=tt_ov_i",
+        "airing": "1999",
+        "pg": "18",
+        "runtime": "2h 19m",
+        "rating": "8.8",
+        "meta_score": "66",
+        "genres": {
+            "genre1": "Drama"
+        },
+        "directors": "David Fincher",
+        "writers": {
+            "writer1": "Chuck Palahniuk",
+            "writer2": "Jim Uhls"
+        },
+        "stars": {
+            "stars1": "Brad Pitt",
+            "stars2": "Edward Norton",
+            "stars3": "Meat Loaf"
+        },
+        "awards": {
+            "oscars": "Nominated for 1 oscar",
+            "wins": "11",
+            "nomination": "38"
+        },
+        "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "casts": []
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "img": "https://www.imdb.com/title/tt0120737/mediaviewer/rm3592958976/?ref_=tt_ov_i",
+        "airing": "2001",
+        "pg": "PG",
+        "runtime": "2h 58m",
+        "rating": "8.8",
+        "meta_score": "92",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Adventure",
+            "genre3": "Drama"
+        },
+        "directors": "Peter Jackson",
+        "writers": {
+            "writer1": "J.R.R Tolkien",
+            "writer2": "Fran Walsh",
+            "writer3": "Philippa Boyens"
+        },
+        "stars": {
+            "stars1": "Elijah Wood",
+            "stars2": "Ian Mckellen",
+            "stars3": "Orlando Bloom"
+        },
+        "awards": {
+            "oscars": "4",
+            "wins": "123",
+            "nomination": "127"
+        },
+        "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "casts": []
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "img": "https://www.imdb.com/title/tt0167261/mediaviewer/rm306845440/?ref_=tt_ov_i",
+        "airing": "2002",
+        "pg": "12A",
+        "runtime": "2h 59m",
+        "rating": "8.8",
+        "meta_score": "87",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Adventure",
+            "genre3": "Drama"
+        },
+        "directors": "Peter Jackson",
+        "writers": {
+            "writer1": "J.R.R Tolkien",
+            "writer2": "Fran Walsh",
+            "writer3": "Philippa Boyens"
+        },
+        "stars": {
+            "stars1": "Elijah Wood",
+            "stars2": "Ian Mckellen",
+            "stars3": "Viggo Mortensen"
+        },
+        "awards": {
+            "oscars": "2",
+            "wins": "130",
+            "nomination": "138"
+        },
+        "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "casts": []
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "img": "https://www.imdb.com/title/tt0167260/mediaviewer/rm584928512/?ref_=tt_ov_i",
+        "airing": "2003",
+        "pg": "12A",
+        "runtime": "3h 21m",
+        "rating": "9.0",
+        "meta_score": "94",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Adventure",
+            "genre3": "Drama"
+        },
+        "directors": "Peter Jackson",
+        "writers": {
+            "writer1": "J.R.R Tolkien",
+            "writer2": "Fran Walsh",
+            "writer3": "Philippa Boyens"
+        },
+        "stars": {
+            "stars1": "Elijah Wood",
+            "stars2": "Viggo Mortensen",
+            "stars3": "Ian Mckellen"
+        },
+        "awards": {
+            "oscars": "11",
+            "wins": "213",
+            "nomination": "124"
+        },
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "casts": []
+    },
+    {
+        "title": "The Dark Night",
+        "img": "https://www.imdb.com/title/tt0468569/mediaviewer/rm4023877632/?ref_=tt_ov_i",
+        "airing": "2008",
+        "pg": "12A",
+        "runtime": "2h 32m",
+        "rating": "9.0",
+        "meta_score": "84",
+        "genres": {
+            "genre1": "Action",
+            "genre2": "Crime",
+            "genre3": "Drama"
+        },
+        "directors": "Christopher Nolan",
+        "writers": {
+            "writer1": "Jonathon Nolan",
+            "writer2": "Christopher Nolan",
+            "writer3": "David S.Goyer"
+        },
+        "stars": {
+            "stars1": "Christian Bale",
+            "stars2": "Heath Ledger",
+            "stars3": "Aaron Eckhart"
+        },
+        "awards": {
+            "oscars": "2",
+            "wins": "161",
+            "nomination": "163"
+        },
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "casts": []
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "img": "https://www.imdb.com/title/tt0111161/mediaviewer/rm1690056449/?ref_=tt_ov_i",
+        "airing": "1994",
+        "pg": "15",
+        "runtime": "2h 22m",
+        "rating": "9.3",
+        "meta_score": "82",
+        "genres": {
+            "genre1": "Drama"
+        },
+        "directors": {
+            "director1": "Frank Darabont"
+        },
+        "writers": {
+            "writer1": "Stephen King",
+            "writer2": "Frank Darabont"
+        },
+        "stars": {
+            "stars1": "Tim Robbins",
+            "stars2": "Morgan Freeman",
+            "stars3": "Bob Gunton"
+        },
+        "awards": {
+            "oscars": "Nominated for 7 oscar",
+            "wins": "21",
+            "nomination": "43"
+        },
+        "description": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+        "casts": []
+    },
+    {
+        "title": "The Godfather",
+        "img": "https://www.imdb.com/title/tt0068646/mediaviewer/rm746868224/?ref_=tt_ov_i",
+        "airing": "1972",
+        "pg": "X",
+        "runtime": "2h 55m",
+        "rating": "9.2",
+        "meta_score": "100",
+        "genres": {
+            "genre1": "Crime",
+            "genre2": "Drama"
+        },
+        "directors": {
+            "director1": "Francis Ford Coppola"
+        },
+        "writers": {
+            "writer1": "Mario Puzo",
+            "writer2": "Francis Ford Coppola"
+        },
+        "stars": {
+            "stars1": "Marlon Brando",
+            "stars2": "Al Pacino",
+            "stars3": "James Caan"
+        },
+        "awards": {
+            "oscars": "3",
+            "wins": "32",
+            "nomination": "31"
+        },
+        "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "casts": []
+    }
+]

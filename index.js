@@ -17,8 +17,10 @@ async function run() {
     try {
         const contentCollection = client.db('reduxAssignment1').collection('content');
 
-        app.get('/content', (req, res) => {
-
+        app.get('/content', async (req, res) => {
+            const content = {};
+            const result = await contentCollection.find(content).toArray();
+            res.send(result);
         })
     }
     finally {
